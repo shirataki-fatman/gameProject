@@ -2,8 +2,8 @@ package systems
 
 import (
 	"engo.io/ecs"
-	"fmt"
 	"engo.io/engo"
+	"fmt"
 )
 
 type MainSystem struct{}

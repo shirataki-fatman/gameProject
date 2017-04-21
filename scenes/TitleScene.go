@@ -2,10 +2,10 @@ package scenes
 
 import (
 	"engo.io/ecs"
-	"engo.io/engo/common"
-	"image/color"
-	"gameProject/systems"
 	"engo.io/engo"
+	"engo.io/engo/common"
+	"gameProject/systems"
+	"image/color"
 )
 
 type TitleScene struct{}
