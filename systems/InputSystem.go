@@ -2,8 +2,8 @@ package systems
 
 import (
 	"engo.io/ecs"
-	"gameProject/components"
 	"engo.io/engo"
+	"gameProject/components"
 )
 
 type inputEntity struct {

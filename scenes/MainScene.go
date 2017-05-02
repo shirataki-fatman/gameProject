@@ -2,11 +2,11 @@ package scenes
 
 import (
 	"engo.io/ecs"
+	"engo.io/engo"
 	"engo.io/engo/common"
+	"gameProject/entities"
 	"gameProject/systems"
 	"image/color"
-	"engo.io/engo"
-	"gameProject/entities"
 )
 
 type MainScene struct{}

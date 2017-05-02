@@ -2,8 +2,8 @@ package entities
 
 import (
 	"engo.io/ecs"
-	"engo.io/engo/common"
 	"engo.io/engo"
+	"engo.io/engo/common"
 	"gameProject/components"
 	"gameProject/systems"
 )
